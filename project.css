@@ -1,0 +1,13 @@
+.d-block{
+    height: 400px;
+}
+#div.coll:hover{
+box-shadow: 2px 4px  6px black;
+border-radius: 15px;
+padding: 0px;
+
+}
+.btn btn-sm btn:hover{
+    background-color: blue;
+
+}
